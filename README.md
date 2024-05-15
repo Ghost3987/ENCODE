@@ -3,7 +3,7 @@
 rm -rf ENCODE
 git clone https://github.com/Ghost3987/ENCODE
 ls
-python Dump.py
+python Encode.py
 ```
 
 ## Find Me on :
