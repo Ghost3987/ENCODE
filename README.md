@@ -1,9 +1,14 @@
 ## Run Command 
+[~] Install Command 
 ```
 pkg update
 pkg upgrade
 pkg install pip
 pip install requests
+
+```
+[~] MAIN COMMAND
+```
 rm -rf ENCODE
 git clone https://github.com/Ghost3987/ENCODE
 cd ENCODE
