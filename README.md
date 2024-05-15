@@ -6,6 +6,7 @@ pkg install pip
 pip install requests
 rm -rf ENCODE
 git clone https://github.com/Ghost3987/ENCODE
+cd ENCODE
 ls
 python Encode.py
 ```
