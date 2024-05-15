@@ -1,5 +1,9 @@
 ## Run Command 
 ```
+pkg update
+pkg upgrade
+pkg install pip
+pip install requests
 rm -rf ENCODE
 git clone https://github.com/Ghost3987/ENCODE
 ls
